@@ -61,7 +61,7 @@ switch (temperatura) {
         break;
 }
 
-const user = Alex;
+const user = Rodolfo;
 
 switch (user) {
     case Alex:
@@ -71,7 +71,7 @@ switch (user) {
         console.log ("Programador em com pregriça");
          break;
     case Rodolfo:
-        console.log ("Professor de programação");
+        console.log ("Professor Top de programação");
         break;
     default:
         console.log ("Não sei quem é esse");
